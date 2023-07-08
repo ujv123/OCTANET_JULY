@@ -1,4 +1,4 @@
-Landing Page ......# OCTANET_JULY  
+Landing Page ...... #OCTANET_JULY  
 
 
 Create a Landing Page Using HTML and CSS.
